@@ -1,0 +1,11 @@
+state: enabled
+email: dsburnside@hotmail.com
+fullname: 'Dale Burnside'
+title: IT
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$3GuLPu72FHg/qXMbEPoyluVVSF/bJduweOBmClj2oMQfLqdBuvQ7a

@@ -1,0 +1,12 @@
+{% set collection = page.find('/blog').children.order('date', 'desc').slice(0, 3) %}
+[
+  {% for post in collection %}
+  {
+    "title": "{{ post.title }}",
+    "url": "{{ post.url }}",
+    "date": "{{ post.date|date('F j, Y') }}",
+    "summary": "{{ post.summary[:200]|e('js') }}...",
+	"image": "{{ (post.media.images|first).cropZoom(1400,500).url}}"
+  }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]

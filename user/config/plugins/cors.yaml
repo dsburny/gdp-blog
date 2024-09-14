@@ -1,0 +1,18 @@
+enabled: true
+routes:
+  - '*'
+origins:
+  - '*'
+methods:
+  - OPTIONS
+  - GET
+  - HEAD
+  - POST
+  - PUT
+  - DELETE
+  - TRACE
+  - CONNECT
+  - FETCH
+credentials: false
+allowHeaders: null
+expose: null

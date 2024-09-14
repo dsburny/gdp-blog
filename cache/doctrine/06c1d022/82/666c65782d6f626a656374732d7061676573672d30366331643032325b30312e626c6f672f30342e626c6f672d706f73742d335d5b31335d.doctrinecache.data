@@ -1,0 +1,14 @@
+1721256338
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"blog/blog-post-3";s:8:"elements";a:9:{s:4:"root";b:0;s:11:"storage_key";s:22:"01.blog/04.blog-post-3";s:6:"header";a:9:{s:5:"title";s:17:"A post about ABCD";s:23:"hide_git_sync_repo_link";b:0;s:8:"blog_url";s:5:"/blog";s:12:"show_sidebar";b:1;s:16:"show_breadcrumbs";b:1;s:15:"show_pagination";b:1;s:19:"hide_from_post_list";b:0;s:4:"feed";a:1:{s:5:"limit";i:10;}s:11:"media_order";s:8:"news.jpg";}s:11:"frontmatter";s:178:"title: 'Blog Post 3'
+hide_git_sync_repo_link: false
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
+feed:
+    limit: 10";s:8:"markdown";s:356:"Sed auctor odio a purus. Duis elementum, dui quis accumsan convallis, ante lectus convallis est, vitae sodales nisi magna sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas
+
+===
+
+Your page content goes here.";s:4:"slug";s:11:"blog-post-3";s:4:"name";s:7:"item.md";s:5:"route";s:5:"/blog";s:8:"ordering";b:1;}s:7:"storage";a:6:{s:3:"key";s:16:"blog/blog-post-3";s:11:"storage_key";s:22:"01.blog/04.blog-post-3";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1721255738;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1721255738;}}s:8:"checksum";s:32:"831c84de0313c3fbeb258ccb49c6504d";}}
